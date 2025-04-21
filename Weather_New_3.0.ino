@@ -15,7 +15,7 @@ const char* password = "yourwifipassword";
 
 String openWeatherMapApiKey = "youropenweathermapapikey";
 
-// Memphis, Tennessee, USA
+// Memphis, Tennessee, USA Default - Find Your Latitude and Longitude and Update the City Name
 const char* CITY_NAME = "Memphis";
 const char* LAT       = "35.1495";
 const char* LON       = "-90.0490";
