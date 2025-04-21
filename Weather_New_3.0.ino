@@ -10,10 +10,10 @@
 // ────────────────────────────────────────────────
 //  ⚙️  USER SETTINGS
 // ────────────────────────────────────────────────
-const char* ssid     = "I Feel Slow";
-const char* password = "edmeech1";
+const char* ssid     = "YOURWIFISSID";
+const char* password = "yourwifipassword";
 
-String openWeatherMapApiKey = "fb3255e2350c3148cc943c8e48c70ece";
+String openWeatherMapApiKey = "youropenweathermapapikey";
 
 // Memphis, Tennessee, USA
 const char* CITY_NAME = "Memphis";
