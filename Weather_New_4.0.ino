@@ -18,11 +18,11 @@
 //  ⚙️  USER SETTINGS
 // ────────────────────────────────────────────────
 // Define WiFi network credentials
-const char* ssid     = "I Feel Slow"; // Your WiFi network name (SSID)
-const char* password = "edmeech1";    // Your WiFi password
+const char* ssid     = "yourwifissid"; // Your WiFi network name (SSID)
+const char* password = "yourwifipassword";    // Your WiFi password
 
 // API Key for OpenWeatherMap service
-String openWeatherMapApiKey = "fb3255e2350c3148cc943c8e48c70ece";
+String openWeatherMapApiKey = "youropenweathermaponecall3.0key";
 
 // Define the geographical location for weather data
 // Location (Memphis, Tennessee, USA) - Original Comment
